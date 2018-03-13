@@ -1,2 +1,0 @@
-class Weddingdress < ApplicationRecord
-end
