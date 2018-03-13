@@ -1,0 +1,9 @@
+<%= form_for @weddingdress do |f| %>
+    Name:<br>
+    <%= f.text_field :name %>
+    <br>size:<br>
+    <%= f.text_field :size %>
+    <br>color:<br>
+    <%= f.text_field :color %>
+    <br><br><%= f.submit :create %>
+<% end %>

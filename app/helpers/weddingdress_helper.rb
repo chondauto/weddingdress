@@ -1,0 +1,2 @@
+module WeddingdressHelper
+end
